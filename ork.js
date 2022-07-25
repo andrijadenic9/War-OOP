@@ -10,15 +10,15 @@ function Ork(id) {
     this.health = Math.ceil(Math.random() * (100 - 50) + 50);
     this.icon = function () {
         if (this.name === 'Grak The Angry') {
-            this.icon = '<img class="info-img" src="/images/orks/ork1.png">';
+            this.icon = '<img class="info-img" src="images/orks/ork1.png">';
         } else if (this.name === 'Nug The Crazy') {
-            this.icon = '<img class="info-img" src="/images/orks/ork3.png">';
+            this.icon = '<img class="info-img" src="images/orks/ork3.png">';
         } else if (this.name === 'Durdul The Merciless') {
-            this.icon = '<img class="info-img" src="/images/orks/ork2.png">';
+            this.icon = '<img class="info-img" src="images/orks/ork2.png">';
         } else if (this.name === 'Grohruk The Anguished') {
-            this.icon = '<img class="info-img" src="/images/orks/ork4.png">';
+            this.icon = '<img class="info-img" src="images/orks/ork4.png">';
         } else if (this.name === 'Jartokk The Enormous') {
-            this.icon = '<img class="info-img" src="/images/orks/ork5.png">';
+            this.icon = '<img class="info-img" src="images/orks/ork5.png">';
         }
     }
     this.icon();
