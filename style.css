@@ -70,36 +70,36 @@
 
 /** DWARFS */
 .hjoldur-blackstorm {
-    background-image: url(/images/dwarfs/dwarf1.png);
+    background-image: url(images/dwarfs/dwarf1.png);
 }
 .hulnum-battlebleeder {
-    background-image: url(/images/dwarfs/dwarf2.png);
+    background-image: url(images/dwarfs/dwarf2.png);
 }
 .torgrum-lulbruhk {
-    background-image: url(/images/dwarfs/dwarf3.png);
+    background-image: url(images/dwarfs/dwarf3.png);
 }
 .muirthran-mutgak {
-    background-image: url(/images/dwarfs/dwarf4.png);
+    background-image: url(images/dwarfs/dwarf4.png);
 }
 .krumgrun-draekerehr {
-    background-image: url(/images/dwarfs/dwarf5.png);
+    background-image: url(images/dwarfs/dwarf5.png);
 }
 
 /** ORKS */
 .grak-the-angry {
-    background-image: url(/images/orks/ork1.png);
+    background-image: url(images/orks/ork1.png);
 }
 .nug-the-crazy {
-    background-image: url(/images/orks/ork3.png);
+    background-image: url(images/orks/ork3.png);
 }
 .durdul-the-merciless {
-    background-image: url(/images/orks/ork2.png);
+    background-image: url(images/orks/ork2.png);
 }
 .grohruk-the-anguished {
-    background-image: url(/images/orks/ork4.png);
+    background-image: url(images/orks/ork4.png);
 }
 .jartokk-the-enormous {
-    background-image: url(/images/orks/ork5.png);
+    background-image: url(images/orks/ork5.png);
 }
 
 .dwarf-info,
