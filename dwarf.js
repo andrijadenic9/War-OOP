@@ -13,15 +13,15 @@ function Dwarf(id) {
     this.health = Math.ceil(Math.random() * (100 - 50) + 50);
     this.icon = function () {
         if (this.name === 'Hjoldur Blackstorm') {
-            this.icon = '<img class="info-img" src="/images/dwarfs/dwarf1.png">';
+            this.icon = '<img class="info-img" src="images/dwarfs/dwarf1.png">';
         } else if (this.name === 'Hulnum Battlebleeder') {
-            this.icon = '<img class="info-img" src="/images/dwarfs/dwarf2.png">';
+            this.icon = '<img class="info-img" src="images/dwarfs/dwarf2.png">';
         } else if (this.name === 'Torgrum Lulbruhk') {
-            this.icon = '<img class="info-img" src="/images/dwarfs/dwarf3.png">';
+            this.icon = '<img class="info-img" src="images/dwarfs/dwarf3.png">';
         } else if (this.name === 'Muirthran Mutgak') {
-            this.icon = '<img class="info-img" src="/images/dwarfs/dwarf4.png">';
+            this.icon = '<img class="info-img" src="images/dwarfs/dwarf4.png">';
         } else if (this.name === 'Krumgrun Draekerehr') {
-            this.icon = '<img class="info-img" src="/images/dwarfs/dwarf5.png">';
+            this.icon = '<img class="info-img" src="images/dwarfs/dwarf5.png">';
         }
     }
     this.icon();
