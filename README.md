@@ -5,7 +5,7 @@ Welcome to the Battle of the Realms Game repository! This application is an exci
 ## Features
 
 - **Built with Object-Oriented Programming**:
- -The Battle of the Realms game is developed using the principles of object-oriented programming, ensuring a modular and maintainable codebase.
+  - The Battle of the Realms game is developed using the principles of object-oriented programming, ensuring a modular and maintainable codebase.
 
 - **Army Overview**:
   - Before starting the battle, you can preview each soldier's details including name, weapon, attack damage, and health.
